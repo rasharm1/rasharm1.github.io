@@ -1,0 +1,11 @@
+/* css styles */
+p {
+  text-align: justify;
+}
+
+span {
+  display: inline-block;
+  text-align: right;
+  white-space: nowrap;
+  float: right;
+}

@@ -1,0 +1,20 @@
+---
+title: "Raina Sharma" 
+format: html 
+about:
+  template: trestles
+---
+
+*— Can include photo later + reformat —*
+
+My unwavering determination to continuously learn has allowed for diversifying my learning experience, which presented multiple challenges to refine my attention to detail. This journey has been key in shaping a well-rounded foundation, and enriching my academic pursuits. Without these abilities, I would not have been able to navigate the challenges posed in my academic journey and foster a more comprehensive understanding of my field.
+
+### Education
+
+**Bachelor of Commerce** <br>*Major in Finance, Minor in Data Science* *Sept 2022 - Present* <br> *University of Calgary*
+
+**Bachelor of Arts** <br> *Major in Economics* *Sept 2021 - Present* <br> *University of Calgary*
+
+### Experience and/or Projects
+
+*— Can build out later —*
